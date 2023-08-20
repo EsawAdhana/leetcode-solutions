@@ -4,7 +4,7 @@ package BSC844;
 
 import java.util.Stack;
 
-class BSC {
+class BSC844 {
     public boolean backspaceCompare(String s, String t) {
         return convert(s).equals(convert(t));
     }
