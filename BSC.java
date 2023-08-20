@@ -1,3 +1,5 @@
+// Question #844: Backspace String Compare
+// Time complexity: O(n) && Space complexity: O(n)
 package BSC844;
 
 import java.util.Stack;
