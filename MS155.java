@@ -4,7 +4,7 @@ package MS155;
 
 import java.util.Stack;
 
-class MS {
+class MS155 {
     Stack<Integer> stack = new Stack<>();
     Stack<Integer> cache = new Stack<>();
     public MS() {
