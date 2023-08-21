@@ -1,6 +1,5 @@
 // Question #155: Min Stack
 // Time complexity: O(1) (per operation) && Space complexity: O(n)
-package MS155;
 
 import java.util.Stack;
 
