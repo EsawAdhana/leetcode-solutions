@@ -1,3 +1,6 @@
+// Question #100: Same Tree
+// Time complexity: O(n*log(n)) && Space complexity: O(s + t)
+
 import java.util.Arrays;
 
 class VA242 {
