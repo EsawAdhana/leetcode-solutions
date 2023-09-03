@@ -1,3 +1,6 @@
+// Question #125: Valid Palindrome
+// Time complexity: O(n) && Space complexity: O(n)
+
 class VP125 {
     public boolean isPalindrome(String s) {
         if (s.length() < 2) return true;
