@@ -1,3 +1,6 @@
+// Question #53: Maximum Subarray
+// Time complexity: O(n) && Space complexity: O(1)
+
 class MS53 {
     public int maxSubArray(int[] nums) {
         int maxSum = nums[0];
