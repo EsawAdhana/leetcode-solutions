@@ -1,3 +1,6 @@
+// Question #153: Find Minimum in Rotated Sorted Array
+// Time complexity: O(log(n)) && Space complexity: O(1)
+
 class FMIRSA153 {
     public int findMin(int[] nums) {
         int start = 0;
