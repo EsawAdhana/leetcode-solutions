@@ -1,4 +1,4 @@
-// Question #844: Backspace String Compare
+// Question #238: Product Of Array Except Self
 // Time complexity: O(n) && Space complexity: O(1)
 
 class POAES238 {
