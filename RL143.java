@@ -1,3 +1,6 @@
+// Question #143: Reorder List
+// Time complexity: O(n) && Space complexity: O(1)
+
 class RL143 {
     public void reorderList(ListNode head) {
         if (head == null || head.next == null) return;
