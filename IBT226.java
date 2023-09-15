@@ -1,3 +1,6 @@
+// Question #226: Invert Binary Tree
+// Time complexity: O(n) && Space complexity: O(n)
+
 import javax.swing.tree.TreeNode;
 
 class IBT226 {
@@ -10,3 +13,4 @@ class IBT226 {
 
         return root;
     }
+}
