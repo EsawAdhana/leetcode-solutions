@@ -1,3 +1,6 @@
+// Question #217: Contains Duplicate
+// Time complexity: O(n) && Space complexity: O(1)
+
 import java.util.HashMap;
 
 class CD217 {
