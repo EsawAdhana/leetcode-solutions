@@ -1,3 +1,6 @@
+// Question #844: Backspace String Compare
+// Time complexity: O(n) && Space complexity: O(1)
+
 class POAES238 {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
