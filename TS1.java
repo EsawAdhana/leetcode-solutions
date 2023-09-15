@@ -1,3 +1,6 @@
+// Question #1: Two Sum
+// Time complexity: O(n) && Space complexity: O(n)
+
 import java.util.HashMap;
 
 class TS1 {
