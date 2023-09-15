@@ -1,4 +1,4 @@
-// Question #100: Same Tree
+// Question #242: Valid Anagram
 // Time complexity: O(n*log(n)) && Space complexity: O(s + t)
 
 import java.util.Arrays;
