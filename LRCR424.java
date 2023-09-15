@@ -1,3 +1,6 @@
+// Question #424: Longest Repeating Character Replacement
+// Time complexity: O(n) && Space complexity: O(n)
+
 import java.util.HashSet;
 import java.util.Set;
 
