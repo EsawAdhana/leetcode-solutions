@@ -1,3 +1,6 @@
+// Question #141: Linked List Cycle
+// Time complexity: O(n) && Space complexity: O(1)
+
 class LLC141 {
     public boolean hasCycle(ListNode head) {
         ListNode slow = head;
