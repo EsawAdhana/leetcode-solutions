@@ -1,3 +1,6 @@
+// Question #844: Backspace String Compare
+// Time complexity: O(n*log(n)) && Space complexity: O(n)
+
 import java.util.*;
 
 class TS15 {
