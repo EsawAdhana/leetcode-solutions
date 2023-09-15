@@ -1,3 +1,6 @@
+// Question #1: Two Sum
+// Time complexity: O(n) && Space complexity: O(1)
+
 class BTTBASS121 {
     public int maxProfit(int[] prices) {
         int maxProfit = 0;
