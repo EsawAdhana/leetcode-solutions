@@ -1,3 +1,6 @@
+// Question #206: Reverse Linked List
+// Time complexity: O(n) && Space complexity: O(1)
+
 class RALL206 {
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
