@@ -1,3 +1,7 @@
+// Question #23: Merge k Sorted Lists
+// Time complexity: O(n*log(n)) && Space complexity: O(n)
+
+
 class MKSL23 {
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists.length == 0) return null;
