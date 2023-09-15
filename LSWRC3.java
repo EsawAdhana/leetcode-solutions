@@ -1,3 +1,6 @@
+// Question #3: Longest Substring Without Repeating Characters
+// Time complexity: O(n) && Space complexity: O(n)
+
 import java.util.HashSet;
 import java.util.Set;
 
