@@ -1,4 +1,4 @@
-// Question #15: (T)3Sum
+// Question #15: (Three)3Sum
 // Time complexity: O(n*log(n)) && Space complexity: O(n)
 
 import java.util.*;
