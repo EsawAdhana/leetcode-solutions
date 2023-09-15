@@ -1,4 +1,4 @@
-// Question #844: Backspace String Compare
+// Question #15: (T)3Sum
 // Time complexity: O(n*log(n)) && Space complexity: O(n)
 
 import java.util.*;
