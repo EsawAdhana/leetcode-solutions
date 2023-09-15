@@ -1,3 +1,6 @@
+// Question #152: Maximum Product Subarray
+// Time complexity: O(n) && Space complexity: O(1)
+
 class MPS152 {
     public int maxProduct(int[] nums) {
         int left = 1;
