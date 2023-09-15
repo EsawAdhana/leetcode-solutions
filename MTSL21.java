@@ -1,3 +1,6 @@
+// Question #21: Merge Two Sorted Lists
+// Time complexity: O(p + q) && Space complexity: O(1)
+
 class MTSL21 {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if (list1 == null) return list2;
