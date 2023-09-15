@@ -1,3 +1,6 @@
+// Question #647: Palindromic Substrings
+// Time complexity: O(n^2) && Space complexity: O(1)
+
 class PS647 {
     public int countSubstrings(String s) {
         if (s.length() == 1) return 1;
