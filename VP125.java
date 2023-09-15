@@ -1,23 +1,23 @@
 // Question #125: Valid Palindrome
-// Time complexity: O(n) && Space complexity: O(n)
+// Time complexity: O(n) && Space complexity: O(1)
 
 class VP125 {
     public boolean isPalindrome(String s) {
-        if (s.length() < 2) return true;
+        int left = 0;
+        int right = s.length() - 1;
         s = s.toLowerCase();
-        int p1 = 0;
-        int p2 = s.length() - 1;
-        while (p1 < p2) {
-            if (!Character.isLetterOrDigit(s.charAt(p1))) {
-                p1++;
-            } else if (!Character.isLetterOrDigit(s.charAt(p2))) {
-                p2--;
+
+        while (left <= right) {
+            if (!Character.isLetterOrDigit(s.charAt(left))) {
+                left++;
+            } else if (!Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
             } else {
-                if (s.charAt(p1) != s.charAt(p2)) {
+                if (s.charAt(left) != s.charAt(right)) {
                     return false;
                 }
-                p1++;
-                p2--;
+                left++;
+                right--;
             }
         }
         return true;
