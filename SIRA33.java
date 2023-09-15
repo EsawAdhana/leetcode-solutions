@@ -1,3 +1,6 @@
+// Question #33: Search in Rotated Sorted Array
+// Time complexity: O(log(n)) && Space complexity: O(1)
+
 class SIRA33 {
     public int search(int[] nums, int target) {
         int start = 0;
