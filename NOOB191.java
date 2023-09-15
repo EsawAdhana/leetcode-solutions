@@ -1,3 +1,6 @@
+// Question #191: Number of 1 (One) Bits
+// Time complexity: O(1) && Space complexity: O(1)
+
 class NOOB191 {
     public int hammingWeight(int n) {
         int ones = 0;
