@@ -1,3 +1,6 @@
+// Question #49: Group Anagrams
+// Time complexity: O(n*log(n)) && Space complexity: O(n)
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
