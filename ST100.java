@@ -1,6 +1,5 @@
 // Question #100: Same Tree
 // Time complexity: O(p + q) && Space complexity: O(p + q)
-// This code runs ASSUMING the LeetCode TreeNode implementation. (Copypasting into LeetCode WILL work.)
 
 import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
